@@ -1,3 +1,5 @@
+<!-- Developer: Seyi R. Afolayan -->
+
 <?xml version="1.0"?>
 <robot name="ur5e_robot" xmlns:xacro="http://www.ros.org/wiki/xacro">
     <xacro:arg name="name" default="ur5e_robot"/>
